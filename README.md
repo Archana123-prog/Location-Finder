@@ -2,7 +2,8 @@
 # 📍 Location Finder (Pin Code Based)
 
 A simple web application that finds the **location details of an Indian PIN code** and displays it on an interactive map.
-### 🔍Live Link: https://archana123-prog.github.io/Location-Finder/
+
+🔍Live Link: https://archana123-prog.github.io/Location-Finder/
 <p align="left">
   <a href="(https://archana123-prog.github.io/Location-Finder/)"></a>
 </p>
