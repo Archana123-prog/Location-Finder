@@ -7,6 +7,7 @@ A simple web application that finds the **location details of an Indian PIN code
 <p align="left">
   <a href="(https://archana123-prog.github.io/Location-Finder/)"></a>
 </p>
+
 ## 🚀 Features
 
 * 🔢 Enter a **6-digit PIN code**
@@ -63,9 +64,10 @@ Input:
 
 Output:
 
+```
 * Dadri, Gautam Buddha Nagar, Uttar Pradesh, India
 * Map with marker 📍
-
+```
 <img width="1915" height="924" alt="Screenshot 2026-04-09 231149" src="https://github.com/user-attachments/assets/fdd712d7-75d9-4ae4-b396-d36252c3e351" />
 
 ## Zoom 🔍in & 🌍out
